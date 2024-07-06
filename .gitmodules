@@ -1,0 +1,7 @@
+[submodule "TechnicalAnalysis-BackEnd"]
+    path=TechnicalAnalysis-BackEnd
+    url=https://github.com/kostasthomson/TechnicalAnalysis-BackEnd
+
+[submodule "TechnicalAnalysis-frontend"]
+    path=technicalanalysis-frontend
+    url=https://github.com/kostasthomson/TechnicalAnalysis-FrontEnd
