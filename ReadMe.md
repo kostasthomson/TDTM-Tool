@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/1c3290f9-1996-413c-bee3-890289ba952a">
+</p>
+
 # TDTM-Tool
 
 Welcome to the TDTM-Tool (Technical Debt Traceability Map) repository! This project is part of my Bachelor's Thesis research, and it is designed to provide a full-stack application for software quality analysis and technical debt traceability. The application leverages quality analysis tools and libraries to help users control and manage software's technical debt.
