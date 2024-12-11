@@ -73,6 +73,6 @@ SonarQube: For code quality analysis
 
 Neo4j: Graph database for storing analysis data
 
-ostgreSQL: Relational database for SonarQube data storage
+PostgreSQL: Relational database for SonarQube data storage
 
 Maven: For dependency management and building the application
